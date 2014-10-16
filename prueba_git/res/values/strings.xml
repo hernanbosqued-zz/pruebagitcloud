@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">prueba_git</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">HOLA ATLANTA!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
