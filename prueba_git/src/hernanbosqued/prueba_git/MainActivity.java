@@ -7,7 +7,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends Activity 
 {
-	//ATLANTABRANCH COMMIT 2
+	//ATLANTABRANCH MASTER
 	
 	
 	@Override
